@@ -5,4 +5,4 @@ In this repository both the code for data generation part and the several neural
 Necessary dependance for virtual environment are:
 qutip, keras, msmath. 
 
-The data generation code run made use of the python multiprocess library for parallel computation. 
+The data generation code makes use of the python multiprocess library for parallel computation. 
